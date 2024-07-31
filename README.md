@@ -73,3 +73,5 @@ For the 2 Slideswitches, we will pretend that they’re “Bump Sensors” mount
 ### Link:
 [H-Bridge Controlling 2 DC Motors (left/right - forward/backward)](https://www.tinkercad.com/things/01jYXr3Pisy-h-bridge-controlling-2-dc-motors-leftright-forwardbackward)
 #### 
+### References:-
+[Tinkercad + Arduino Lesson 16: H-bridge and Robot Steering](https://youtu.be/DCVuK39KCEU?si=fQbpAcdD9JKKsJe1)
