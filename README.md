@@ -67,6 +67,9 @@ Tinkercad
 ####
 4- Write the Code
 #### 
+### Process of Thought:
+For the 2 Slideswitches, we will pretend that they’re “Bump Sensors” mounted on the front of the robot. As a result of this way of thinking, it’s natural to say that if one sensor bumps into something, then we want the robot to turn either to the left or to the right, and if both sensors bump into something then we want the robot to go in reverse, or walk backward, sort of like an “Obstacle-Avoiding-Algorithm”. When running the code for this circuit, you’ll see that the “rpm” on both the DC Motors is a positive number, but when you toggle one of the Slideswitches, its corresponding DC Motor will start moving in reverse direction. Now, if this was a real robot with left and right DC Motors driving around, you can imagine how that would cause the robot to either turn left or right, or even go forward or drive in reverse depending on the combination of what the 2 motors are doing.
+#### 
 ### Link:
 [H-Bridge Controlling 2 DC Motors (left/right - forward/backward)](https://www.tinkercad.com/things/01jYXr3Pisy-h-bridge-controlling-2-dc-motors-leftright-forwardbackward)
 #### 
