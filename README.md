@@ -1,4 +1,4 @@
-# Move a DC Motor with H-Bridge
+# Move DC Motors Using Arduino and H-Bridge
 ## Task Description:- 
 Run H-bridge with a DC motor using Arduino on Tinkercad
 #### 
