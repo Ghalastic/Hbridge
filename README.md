@@ -6,7 +6,7 @@ Run H-bridge with a DC motor using Arduino on Tinkercad
 Tinkercad
 #### 
 ### Duration:
-30 Minutes
+1 hr and 30 minutes (approximately)
 #### 
 ## Part 1 - Move the DC Motor Clockwise and Counterclockwise 
 #### 
